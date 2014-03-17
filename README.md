@@ -10,7 +10,7 @@ Instances of the class does not need to be initialized with anything special.
 
 When you call `prime_number?` and pass it a prime number (like 3, 5 or 7), it returns true.
 
-When you call `prime_number?` and pass it a non-prime number (like 2, 4 or 10), it returns false.
+When you call `prime_number?` and pass it a non-prime number (like 4, 6 or 10), it returns false.
 
 ## Prime Numbers
 
