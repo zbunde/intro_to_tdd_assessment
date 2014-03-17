@@ -20,9 +20,15 @@ A prime number is a natural number greater than 1 that has no positive divisors 
 
 ##  Some things we will look for
 
+Each of the items below will be rated on a scale of 0, 1 or 2:
+
 * A properly specified version of RSpec in your Gemfile
-* Appropriately sized commits and descriptive commit messages
-* Good looking code. Bonus points if you show some refactorings
+* Appropriately sized commits
+* Descriptive commit messages
+* Tests pass with each commit
+* Code works
+* Completed in time
+* Ruby Style (proper capitalization / snake_case)
 
 ## Feedback we will collect
 
