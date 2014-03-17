@@ -20,7 +20,7 @@ A prime number is a natural number greater than 1 that has no positive divisors 
 
 ##  Some things we will look for
 
-Each of the items below will be rated on a scale of 0, 1 or 2:
+Each of the items below will be rated on a scale of 0, 1 or 2 (0 being did not do, 2 being did perfectly):
 
 * A properly specified version of RSpec in your Gemfile
 * Appropriately sized commits
