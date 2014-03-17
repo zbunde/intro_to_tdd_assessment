@@ -33,5 +33,4 @@ Each of the items below will be rated on a scale of 0, 1 or 2 (0 being did not d
 ## Feedback we will collect
 
 * Your self assessment of your performance submitted to yourself via the feedback tool in students.gschool.it
-* Feedback from yourself in the form of GitHub comments
-* Feedback from the instructors in the form of GitHub comments
+* Feedback from the instructors in the form of GitHub comments and via the feedback tool.
