@@ -12,6 +12,8 @@ When you call `prime_number?` and pass it a prime number (like 3, 5 or 7), it re
 
 When you call `prime_number?` and pass it a non-prime number (like 4, 6 or 10), it returns false.
 
+Your `prime_number?` method can use the `Prime.prime?` method from the Ruby standard library.
+
 ## Prime Numbers
 
 A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
