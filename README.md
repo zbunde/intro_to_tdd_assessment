@@ -32,6 +32,12 @@ Each of the items below will be rated on a scale of 0, 1 or 2 (0 being did not d
 * Completed in time
 * Ruby Style (proper capitalization / snake_case)
 
+## Things we will not look for
+
+* A perfect prime number algorithm
+ 
+It's sufficient to have one spec for a non-prime number and one spec for a prime number.
+
 ## Feedback we will collect
 
 * Your self assessment of your performance submitted to yourself via the feedback tool in students.gschool.it
